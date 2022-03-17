@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋, I'm Anjali Rajendran</h1>
 <h3 align="center">Learning frontend developer and Machine Learning enthusiast from Kerala</h3>
-
+<h5 align="center">and yes...squadscorpio thats also me!!</h5>
 - 👨‍💻 All of my projects are available at [https://anjaliraj015.github.io/](https://anjaliraj015.github.io/AR.me/)
 
 <h3 align="left">Connect with me:</h3>
