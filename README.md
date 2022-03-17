@@ -1,9 +1,7 @@
 <h1 align="center">Hola👋, I'm Anjali Rajendran</h1>
 <h3 align="center">Learning frontend developer and Machine Learning enthusiast from Kerala</h3>
 
-- 👨‍💻 All of my projects are available at [https://anjaliraj015.github.io/](https://anjaliraj015.github.io/)
-
-- 📄 Know about my experiences [https://github.com/AnjaliRaj015/anjaliraj015.github.io/blob/main/Anjali%20Rajendran%20CV.pdf](https://github.com/AnjaliRaj015/anjaliraj015.github.io/blob/main/Anjali%20Rajendran%20CV.pdf)
+- 👨‍💻 All of my projects are available at [https://anjaliraj015.github.io/](https://anjaliraj015.github.io/AR.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
