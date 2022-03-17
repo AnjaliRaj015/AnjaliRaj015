@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjali Rajendran</h1>
+<h1 align="center">Hola👋, I'm Anjali Rajendran</h1>
 <h3 align="center">Learning frontend developer and Machine Learning enthusiast from Kerala</h3>
 
 - 👨‍💻 All of my projects are available at [https://anjaliraj015.github.io/](https://anjaliraj015.github.io/)
