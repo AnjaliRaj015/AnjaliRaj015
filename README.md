@@ -27,4 +27,4 @@
 <img src="https://github.com/AnjaliRaj015/AR.me/blob/main/images/line-neon.gif" width="100%">
 
 ------
-Credit: [SquadScorpio](https://anjaliraj015.github.io/AR.me/)
+Credit: [SquadScorpio](https://anjaliraj.netlify.app/)
