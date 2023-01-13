@@ -1,5 +1,5 @@
 <img src="https://github.com/AnjaliRaj015/AR.me/blob/main/images/line-neon.gif" width="100%">
-<img src="https://github.com/AnjaliRaj015/AR.me/blob/main/images/Untitled%20design.gif">
+<img src="https://www.canva.com/design/DAFTVW21kYs/qL9pphuDXK-d9LxWHXpf9A/viewutm_content=DAFTVW21kYs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliraj015" alt="andermendoza" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjaliraj015&theme=dracula&column=7" alt="anjaliraj015" /></a> </p>
 
